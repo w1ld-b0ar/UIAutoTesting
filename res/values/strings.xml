@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name = "app_name">UI Auto Testing</string>
+    <string name = "default_label">Hello World!</string>
+    <string name = "porsche" >Porsche</string>
+    <string name = "dodge" >Dodge</string>
+    <string name = "guitar" >Guitar</string>
+</resources>

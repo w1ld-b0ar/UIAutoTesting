@@ -9,5 +9,4 @@ public class FirstActivity extends PictureActivity {
     protected int getImageResourceId() {
         return R.drawable.porsche;
     }
-//    atat
 }

@@ -1,6 +1,5 @@
 package com.example.UIAutoTesting;
 
-
 /**
  Created with IntelliJ IDEA. User: w1ld.b0ar Date: 29.06.13 Time: 22:07
 
@@ -10,5 +9,4 @@ public class SecondActivity extends PictureActivity {
     protected int getImageResourceId() {
         return R.drawable.guitar;
     }
-
 }

@@ -5,7 +5,7 @@ import android.os.Bundle;
 import android.widget.ImageView;
 
 /**
- Created with IntelliJ IDEA. User: Антон Date: 29.06.13 Time: 22:22
+ Created with IntelliJ IDEA. User: w1ld.b0ar Date: 29.06.13 Time: 22:22
 
  @author Blaschuk Anton (w1ld.b0ar100500@gmail.com) */
 public abstract class PictureActivity extends Activity {
